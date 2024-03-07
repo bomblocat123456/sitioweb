@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
   <head>
       <meta charset="utf-8">
@@ -12,7 +12,7 @@
 
 
   
-</p> 
+
  </body>
 </html>
  <li> <a  href= "formulario.html"> Acceder a el formulario </a></li>
